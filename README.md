@@ -12,7 +12,7 @@
       <li>⚛️ React</li>
       <li>📈 Next.js</li>
       <li>🖥️ Node.JS</li>
-      <li>🎯 C#</li>
+      <li>🎯 ASP.NET C#</li>
       <li>🔍 SQL</li>
     </ul>
     <p>Embora esteja trabalhando com suporte no momento, sou apaixonado por desenvolvimento de software e estou sempre buscando aprender mais e aprimorar minhas habilidades. Estou sempre em busca de desafios interessantes e projetos desafiadores.</p>
