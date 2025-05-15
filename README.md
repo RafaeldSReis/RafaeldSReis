@@ -1,24 +1,37 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body>
-  <h1>Olá! 👋</h1>
-  <p>Me chamo Rafael da Silva Reis, sou um desenvolvedor Full Stack com uma paixão por tecnologia e inovação. Tenho experiência sólida nas tecnologias da Microsoft, especialmente em ASP.NET e C#.</p>
-  
-  <h2>Tecnologias que domino:</h2>
-  <ul>
-    <li>🛠️ <strong>ASP.NET</strong> e <strong>C#</strong></li>
-    <li>📊 <strong>SQL Server</strong> e <strong>MySQL</strong></li>
-    <li>📦 <strong>Docker</strong></li>
-    <li>📚 <strong>APIs e Serviços REST</strong></li>
-    <li>🔗 <strong>Integração com APIs avançadas (ex: OpenAI)</strong></li>
-  </ul>
+# 👋 Olá! Eu sou Rafael da Silva Reis
 
-  <p>Sou um profissional organizado e colaborativo, sempre buscando aprender novas tecnologias e melhorar minhas habilidades. Estou à disposição para enfrentar novos desafios e contribuir para o sucesso dos seus projetos.</p>
-  
-  <p>Interessado em colaborar ou saber mais sobre meu trabalho? Vamos nos conectar! 😃</p>
-</body>
-</html>
+Sou um desenvolvedor **Full Stack** com forte atuação em tecnologias da Microsoft, apaixonado por inovação, produtividade e soluções inteligentes. Tenho experiência sólida em desenvolvimento de aplicações modernas, APIs e integração com sistemas avançados, como modelos de IA.
+
+---
+
+## 💼 Tecnologias que domino
+
+- 🧱 **ASP.NET (MVC, Core) e C#**
+- 🗄️ **SQL Server** | 🐬 **MySQL**
+- 🐳 **Docker** e containers
+- 🔗 **APIs RESTful** e microsserviços
+- 🤖 **Integração com APIs de IA (ex: OpenAI, HuggingFace)**
+- 📱 **.NET MAUI** (Hybrid com Blazor)
+- 🧠 **LLMs open-source com RAG e vetorização**
+
+---
+
+## 🚀 Sobre meus projetos
+
+Atualmente desenvolvo uma plataforma própria de IA, o **DAIA** – um sistema de atendimento inteligente com privacidade corporativa, multitenancy, embeddings separados por empresa e interface tipo ChatGPT.  
+Integro modelos LLM locais como o **Gemma** via **Ollama**, com deploy via **Docker** e front-end em **Blazor Server**.
+
+> Acredito que a tecnologia deve ser funcional, ética e acessível. Busco sempre entregar soluções reais com qualidade, segurança e escalabilidade.
+
+---
+
+## 📫 Vamos nos conectar?
+
+Se quiser conversar, colaborar ou conhecer mais do meu trabalho, fique à vontade para me chamar!
+
+- 📧 **Rafael.reis.git@gmail.com**
+- 💼 [LinkedIn](https://www.linkedin.com/in/rafael-sreis) 
+- 💻 [Portfólio](Em Breve)
+
+---
+🛠️ *Este README está em constante atualização para refletir minha evolução como profissional.*
